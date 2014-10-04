@@ -6,7 +6,6 @@ rvm:
   - 2.0.0
   - 2.1.1
   - jruby-19mode
-  - rbx-2.2.10
 
 branches:
   only:
