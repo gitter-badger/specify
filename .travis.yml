@@ -4,9 +4,9 @@ env: CODECLIMATE_REPO_TOKEN=9fc29ca5d34246c79a8477ba030535a4c0f5a078a7304ea5f88b
 
 rvm:
   - 2.0.0
-  - 2.1.2
+  - 2.1.1
   - jruby-19mode
-  - rbx
+  - rbx-2.2.10
 
 branches:
   only:
