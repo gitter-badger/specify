@@ -1,4 +1,5 @@
 # Specify
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jnyman/specify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Gem Version](https://badge.fury.io/rb/specify.svg)](http://badge.fury.io/rb/specify)
 [![Dependency Status](https://gemnasium.com/jnyman/specify.svg)](https://gemnasium.com/jnyman/specify)
