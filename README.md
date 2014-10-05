@@ -4,7 +4,7 @@
 [![Dependency Status](https://gemnasium.com/jnyman/specify.svg)](https://gemnasium.com/jnyman/specify)
 
 [![Build Status](https://travis-ci.org/jnyman/specify.svg)](https://travis-ci.org/jnyman/specify)
-[![Coverage Status](https://img.shields.io/coveralls/jnyman/specify.svg)](https://coveralls.io/r/jnyman/specify)
+[![Coverage Status](https://coveralls.io/repos/jnyman/specify/badge.png?branch=develop)](https://coveralls.io/r/jnyman/specify?branch=develop)
 
 [![Code Climate](https://codeclimate.com/github/jnyman/specify/badges/gpa.svg)](https://codeclimate.com/github/jnyman/specify)
 [![Test Coverage](https://codeclimate.com/github/jnyman/specify/badges/coverage.svg)](https://codeclimate.com/github/jnyman/specify)
