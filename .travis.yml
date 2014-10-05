@@ -1,6 +1,6 @@
 language: ruby
 
-env: CODECLIMATE_REPO_TOKEN=9fc29ca5d34246c79a8477ba030535a4c0f5a078a7304ea5f88b9cedc1cb9b7c
+env: CODECLIMATE_REPO_TOKEN=9fc29ca5d34246c79a8477ba030535a4c0f5a078a7304ea5f88b9cedc1cb9b7c bundle exec rake
 
 rvm:
   - 2.0.0

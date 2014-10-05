@@ -14,7 +14,7 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
                                                           ]
 
 SimpleCov.start do
-  add_filter '/spec'
+  add_filter '/spec/'
   coverage_dir "#{SimpleCov.root}/spec/reports/coverage"
   minimum_coverage 70
   maximum_coverage_drop 5
